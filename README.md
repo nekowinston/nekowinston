@@ -54,6 +54,7 @@ PS@ PE++ Y+ PGP++ !t !5 !X !R !tv b+ DI+++ D++ G e* h r y?
 - [Terminal.app](https://github.com/catppuccin/Terminal.app)
 - [Warp Terminal](https://github.com/catppuccin/warp)
 - [WezTerm](https://github.com/catppuccin/wezterm)
+- [JetBrains](https://github.com/catppuccin/jetbrains)
 
 [catppuccin_img]: https://img.shields.io/badge/-Catppuccin%20Frapp%E9-05122A?style=for-the-badge&color=303446&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABDUlEQVR4AX3RM1g+QBzA8b9to6ammrO55DW7ppoyt8b2obbacs3Z1pJt213f1/fynudz9u+JnHrGzj+hAE3YxAYakYeP8lx5kT9WIMxYhI+pRWdoxRWE5AFVmMIDvOTrrWBc3bZFCZKQgQB1fz4EFvBB0VEAgZknFhLj6RBqOYqOJghsSJPcUIpP+Id4fMc2BGoVkzYhUC4tdMV/WOEbnuOddOqqYtIhBMJNXO8P0vBe3Y6EwLaiMQiBOBMLfyMMr9TtPAh0yb/VjKcWPsdBClWWouMH9iBQgRfS5Gd4iq9Yg8AhPmsm2GEDd3gvLaxEGawhcAd/w6vYoMag77O6fIl1BJl7xwsLb/wstx8BdC+RSgE5C5MAAAAASUVORK5CYII=
 [macos_img]: https://img.shields.io/badge/-macOS-05122A?style=for-the-badge&color=1c1c1e&logo=apple&logoColor=ffffff
