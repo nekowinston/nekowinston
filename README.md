@@ -25,9 +25,8 @@ PS@ PE++ Y+ PGP++ !t !5 !X !R !tv b+ DI+++ D++ G e* h r y?
 
 If you're considering sponsoring me: _thank you, but please don't_.\
 I'd prefer if you would spend that money **directly supporting** causes that
-[improve human wellbeing][charities], and I personally contribute to GiveWell's
-[Top Charities Fund][givewell]. This is reflected across all my repositories, my
-Sponsor button will direct you there as well.\
+[improve human wellbeing][charities].\
+This is reflected across all my repositories, my Sponsor button will direct you there as well.\
 If you're reading this, and can't, or don't want to donate, just try to improve
 someone's day. :slightly_smiling_face:
 
