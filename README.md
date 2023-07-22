@@ -1,16 +1,14 @@
-### hello world :wave:
-
 Remember when [this](https://github.com/telavivmakers/geek_code) was a thing?
 
 ```
 -----BEGIN GEEK CODE BLOCK-----
 Version: 3.1
-GCS/P d@ s+:-- a- C$ UL P--- L++$ E--- W$ !N !o K++ w-- O? M++$ V?
-PS@ PE++ Y+ PGP++ !t !5 !X !R !tv b+ DI+++ D++ G e* h r y?
+GCS/P d@ s+:-- a- C$ P--- L++$ E--- W$ K++ w-- M++$ PS@ PE++ Y+ PGP++ !R
+!tv b+ DI+++ D++ G e* h r y?
 ------END GEEK CODE BLOCK------
 ```
 
-[ungeek it](https://www.joereiss.net/geek/ungeek.cgi?GCS/P_d@_s+:--_a-_C$_UL_P---_L++$_E---_W$_!N_!o_K++_w--_O?_M++$_V?_PS@_PE++_Y+_PGP++_!t_!5_!X_!R_!tv_b+_DI+++_D++_G_e*_h_r_y?)
+[ungeek it](https://www.joereiss.net/geek/ungeek.cgi?GCS/P_d@_s+:--_a-_C$_P---_L++$_E---_W$_K++_w--_M++$_PS@_PE++_Y+_PGP++_!R_!tv_b+_DI+++_D++_G_e*_h_r_y?)
 
 [![macOS][macos_img]](https://github.com/apple)
 [![Yabai][yabai_img]](https://github.com/koekeishiya/yabai)
@@ -26,14 +24,9 @@ PS@ PE++ Y+ PGP++ !t !5 !X !R !tv b+ DI+++ D++ G e* h r y?
 If you're considering sponsoring me: _thank you, but please don't_.\
 I'd prefer if you would spend that money **directly supporting** causes that
 [improve human wellbeing][charities].\
-This is reflected across all my repositories, my Sponsor button will direct you there as well.\
-If you're reading this, and can't, or don't want to donate, just try to improve
-someone's day. :slightly_smiling_face:
-
-![](https://raw.githubusercontent.com/nekowinston/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nekowinston/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/nekowinston/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nekowinston/github-stats/master/generated/languages.svg#gh-light-mode-only)
+This is reflected across all my repositories, my Sponsor button will direct you
+there as well. If you're reading this, and can't, or don't want to donate, just
+try to improve someone's day. :slightly_smiling_face:
 
 [catppuccin_mocha]: https://img.shields.io/badge/-Catppuccin%20Mocha-05122A?style=for-the-badge&color=1e1e2e&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Q2F0cHB1Y2NpbjwvdGl0bGU+PHBhdGggZD0iTTEyIDBBMTIgMTIgMCAwIDAgMCAxMmExMiAxMiAwIDAgMCA2LjMwMyAxMC40NzVjLjA1NC0uMzA5LjU1Ni0zLjE3Ny44MDItMy42NDEgMCAwLTUuOTQ0LTIuNzM1LTEuOTcyLTkuODYzIDAgMC0uOTUtMy43MjUtLjE3NC00LjQwMy43NzYtLjY3NyAzLjM4My45MjcgMy45MzYgMS42MTIgMCAwIDIuMDg0LS45ODMgNS4zNjUtLjIzIDAgMCAyLjI5Mi0yLjI4MSAzLjIxMy0xLjg4NC45Mi4zOTguNzIyIDMuNzAyLjYxOSAzLjk2IDAgMCA1LjYzIDUuMjMyLTEuMjQ2IDEwLjQzNyAwIDAgLjQ3NSAzLjA1OC40MzEgNC4xMjNBMTIgMTIgMCAwIDAgMjQgMTIgMTIgMTIgMCAwIDAgMTIgMFptNC4wMyA5LjFjLS44ODQgMC0xLjYuNjEtMS42IDEuMzYgMCAuMDMzIDAgLjA2NS4wMDQuMDk3YS4xNDguMTQ4IDAgMCAwIC4yNjQuMDgyYy4zMDUtLjM4Ljc5Ny0uNzEzIDEuMzUzLS43MTMuNTIgMCAuOTg1LjI5NyAxLjI5My42NDQuMDQ1LjA1MS4xMTcuMDcuMTgxLjA0NWEuMTY0LjE2NCAwIDAgMCAuMTA2LS4xNTRjMC0uNzUtLjcxOC0xLjM2MS0xLjYwMi0xLjM2MXptLTUuMjA2LjEyM2MtMS4wMSAwLTEuODMuNzExLTEuODMgMS41ODYgMCAuMDYuMDA0LjExOC4wMTIuMTc3YS4xNDcuMTQ3IDAgMCAwIC4yNjQuMDczYy4zNDYtLjQ0Ni45MjQtLjgxNSAxLjU3OC0uODE1LjU5IDAgMS4xMi4zMDcgMS40Ny42OTRhLjE5NC4xOTQgMCAwIDAgLjMzNi0uMTNjMC0uODc0LS44Mi0xLjU4NS0xLjgzLTEuNTg1em0yLjkzIDIuNTAyYy0uMDE0IDAtLjAyNS4wMS0uMDI1LjAyM3YuMDAybC4wMDEuMDAyLjAwMi0uMDAyYy4wMDUtLjAwNi4wMTUtLjAxLjAyNC0uMDEuMDA4IDAgLjAxNC4wMDUuMDIuMDFoLjAwM3YtLjAwMmMwLS4wMTItLjAxMS0uMDIzLS4wMjUtLjAyM3ptMS4yMjUuMjQ2LTEuODAxLjE2YS4xMDcuMTA3IDAgMCAwLS4wNTUuMTkzbDEuMDQxLjc2OGEuMTguMTggMCAwIDAgLjI0NC0uMDNsLjcwNS0uODMyYS4xNTguMTU4IDAgMCAwLS4xMzUtLjI2em0uOTIgMS4zMzRjLS41MDQuODY2LTEuNDU4LjI3LTEuNDU4LjI3LS42NzQgMS4wNzktMS45MTYuMzEyLTEuOTE2LjMxMi43NjggMS40NjUgMi4wMTIuMzYzIDIuMDEyLjM2MyAxLjMyNS4zNzcgMS4zNjEtLjk0NSAxLjM2MS0uOTQ1em0tMy4zODcgNS40NDFjLS40NTggMS4zODEuMzE4IDIuMjU0LjMxOCAyLjI1NC43MTYuMDAyIDEuMzYxLS44ODUgMS4zNjEtLjg4NS4xLjExMS45MDguNDA5IDEuMDcuNDE2LjE2My4wMDguMjQ2LTEuNi0uMDgxLTEuNzA3LS4zMjctLjEwNi0xLjA1Ny42NDctMS4wNTcuNjQ3LS4zOC0uMzkzLTEuNjExLS43MjUtMS42MTEtLjcyNXoiIGZpbGw9IiNjZGQ2ZjQiLz48L3N2Zz4K
 [catppuccin_latte]: https://img.shields.io/badge/-Catppuccin%20Latte-05122A?style=for-the-badge&color=eff1f5&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Q2F0cHB1Y2NpbjwvdGl0bGU+PHBhdGggZD0iTTEyIDBBMTIgMTIgMCAwIDAgMCAxMmExMiAxMiAwIDAgMCA2LjMwMyAxMC40NzVjLjA1NC0uMzA5LjU1Ni0zLjE3Ny44MDItMy42NDEgMCAwLTUuOTQ0LTIuNzM1LTEuOTcyLTkuODYzIDAgMC0uOTUtMy43MjUtLjE3NC00LjQwMy43NzYtLjY3NyAzLjM4My45MjcgMy45MzYgMS42MTIgMCAwIDIuMDg0LS45ODMgNS4zNjUtLjIzIDAgMCAyLjI5Mi0yLjI4MSAzLjIxMy0xLjg4NC45Mi4zOTguNzIyIDMuNzAyLjYxOSAzLjk2IDAgMCA1LjYzIDUuMjMyLTEuMjQ2IDEwLjQzNyAwIDAgLjQ3NSAzLjA1OC40MzEgNC4xMjNBMTIgMTIgMCAwIDAgMjQgMTIgMTIgMTIgMCAwIDAgMTIgMFptNC4wMyA5LjFjLS44ODQgMC0xLjYuNjEtMS42IDEuMzYgMCAuMDMzIDAgLjA2NS4wMDQuMDk3YS4xNDguMTQ4IDAgMCAwIC4yNjQuMDgyYy4zMDUtLjM4Ljc5Ny0uNzEzIDEuMzUzLS43MTMuNTIgMCAuOTg1LjI5NyAxLjI5My42NDQuMDQ1LjA1MS4xMTcuMDcuMTgxLjA0NWEuMTY0LjE2NCAwIDAgMCAuMTA2LS4xNTRjMC0uNzUtLjcxOC0xLjM2MS0xLjYwMi0xLjM2MXptLTUuMjA2LjEyM2MtMS4wMSAwLTEuODMuNzExLTEuODMgMS41ODYgMCAuMDYuMDA0LjExOC4wMTIuMTc3YS4xNDcuMTQ3IDAgMCAwIC4yNjQuMDczYy4zNDYtLjQ0Ni45MjQtLjgxNSAxLjU3OC0uODE1LjU5IDAgMS4xMi4zMDcgMS40Ny42OTRhLjE5NC4xOTQgMCAwIDAgLjMzNi0uMTNjMC0uODc0LS44Mi0xLjU4NS0xLjgzLTEuNTg1em0yLjkzIDIuNTAyYy0uMDE0IDAtLjAyNS4wMS0uMDI1LjAyM3YuMDAybC4wMDEuMDAyLjAwMi0uMDAyYy4wMDUtLjAwNi4wMTUtLjAxLjAyNC0uMDEuMDA4IDAgLjAxNC4wMDUuMDIuMDFoLjAwM3YtLjAwMmMwLS4wMTItLjAxMS0uMDIzLS4wMjUtLjAyM3ptMS4yMjUuMjQ2LTEuODAxLjE2YS4xMDcuMTA3IDAgMCAwLS4wNTUuMTkzbDEuMDQxLjc2OGEuMTguMTggMCAwIDAgLjI0NC0uMDNsLjcwNS0uODMyYS4xNTguMTU4IDAgMCAwLS4xMzUtLjI2em0uOTIgMS4zMzRjLS41MDQuODY2LTEuNDU4LjI3LTEuNDU4LjI3LS42NzQgMS4wNzktMS45MTYuMzEyLTEuOTE2LjMxMi43NjggMS40NjUgMi4wMTIuMzYzIDIuMDEyLjM2MyAxLjMyNS4zNzcgMS4zNjEtLjk0NSAxLjM2MS0uOTQ1em0tMy4zODcgNS40NDFjLS40NTggMS4zODEuMzE4IDIuMjU0LjMxOCAyLjI1NC43MTYuMDAyIDEuMzYxLS44ODUgMS4zNjEtLjg4NS4xLjExMS45MDguNDA5IDEuMDcuNDE2LjE2My4wMDguMjQ2LTEuNi0uMDgxLTEuNzA3LS4zMjctLjEwNi0xLjA1Ny42NDctMS4wNTcuNjQ3LS4zOC0uMzkzLTEuNjExLS43MjUtMS42MTEtLjcyNXoiIGZpbGw9IiM0YzRmNjkiLz48L3N2Zz4K
