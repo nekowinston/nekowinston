@@ -3,8 +3,10 @@ Remember when [this](https://github.com/telavivmakers/geek_code) was a thing?
 ```
 -----BEGIN GEEK CODE BLOCK-----
 Version: 3.1
-GCS/P d@ s+:-- a- C$ P--- L++$ E--- W$ K++ w-- M++$ PS@ PE++ Y+ PGP++ !R
-!tv b+ DI+++ D++ G e* h r y?
+GCS/P d@ s+:-- a- C$ P--- L++$
+E--- W$ K++ w-- M++$ PS@ PE++
+Y+ PGP++ !R !tv b+ DI+++ D++ G
+e* h r y?
 ------END GEEK CODE BLOCK------
 ```
 
